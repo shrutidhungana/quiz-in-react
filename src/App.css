@@ -123,16 +123,28 @@ div {
   pointer-events: none;
 }
 
-@media(max-width:650px){
+@media(max-width:680px){
   .quiz {
     width: 500px;
     margin: 0 auto;
     margin-top: 100px;
   }
 
-  .question {
-    padding: 5px;
-    min-height: 20px;
-    font-size: 20px;
+  
+}
+
+@media(max-width: 410px){
+  .quiz {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+}
+
+@media(max-width: 1000px){
+  .quiz {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 100px;
   }
 }
