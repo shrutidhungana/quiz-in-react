@@ -98,6 +98,34 @@ const data = [
             "Real DOM"
         ],
         correctAnswer: "Virtual DOM",
+    },
+    
+    {
+        question: "How many numbers of elements a valid react component can return ?",
+        incorrectAnswers: [
+            "5",
+            "4",
+            "2"
+        ],
+        correctAnswer: "1",
+    },
+    {
+        question: "How many ways of defining your variables in ES6?",
+        incorrectAnswers: [
+            "1",
+            "4",
+            "5"
+        ],
+        correctAnswer: "3",
+    },
+    {
+        question: "What is the default port where webpack-server runs?",
+        incorrectAnswers: [
+            "8080",
+            "3030",
+            "6060"
+        ],
+        correctAnswer: "3000",
       },
   ];
   
