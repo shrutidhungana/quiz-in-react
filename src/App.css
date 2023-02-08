@@ -125,11 +125,16 @@ div {
 
 @media(max-width:680px){
   .quiz {
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
     margin-top: 100px;
   }
-
+ 
+  .question {
+    padding: 5px;
+    min-height: 40px;
+    font-size: 20px;
+  }
   
 }
 
@@ -139,12 +144,9 @@ div {
     margin: 0 auto;
     margin-top: 100px;
   }
+
+  
+  
 }
 
-@media(max-width: 1000px){
-  .quiz {
-    width: 900px;
-    margin: 0 auto;
-    margin-top: 100px;
-  }
-}
+

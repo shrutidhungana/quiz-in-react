@@ -61,6 +61,44 @@ const data = [
       ],
       correctAnswer: "h1 {background-color:#FFFFFF;}",
     },
+
+    {
+        question: "Which company built react js?",
+        incorrectAnswers: [
+          "Apple",
+          "Google",
+          "Netscape",
+        ],
+        correctAnswer: "Facebook",
+    },
+    
+    {
+        question: "What are the types of list in HTML?",
+        incorrectAnswers: [
+          "Ordered List",
+          "Unordered List",
+          "Description List",
+        ],
+        correctAnswer: "All Of the option",
+    },
+    {
+        question: "What is a babel?",
+        incorrectAnswers: [
+            "Only Compiler",
+            "Only Interpreter",
+            "Only Transpiler"
+        ],
+        correctAnswer: "Both Compiler and Transpiler",
+    },
+    {
+        question: "What does React js use?",
+        incorrectAnswers: [
+            "None of the option",
+            "Both Real DOM and Virtual DOM",
+            "Real DOM"
+        ],
+        correctAnswer: "Virtual DOM",
+      },
   ];
   
   export default data;
