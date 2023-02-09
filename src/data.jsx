@@ -126,6 +126,56 @@ const data = [
             "6060"
         ],
         correctAnswer: "3000",
+    },
+    
+    {
+        question: "What are the two ways to handle data in React?",
+        incorrectAnswers: [
+            "Services & Components",
+            "State & Services",
+            "State & Component"
+        ],
+        correctAnswer: "State & Props",
+    },
+    
+    {
+        question: "Which of the following is used to pass data to a component from outside in React.js?",
+        incorrectAnswers: [
+            "SetState",
+            "Render with arguments",
+            "PropTypes"
+        ],
+        correctAnswer: "Props",
+    },
+    
+    {
+        question: "What does ES6 stand for?",
+        incorrectAnswers: [
+            "EJavaScript 6",
+            "ECMA 6",
+            "ECMAJavaScript 6"
+        ],
+        correctAnswer: "ECMAScript 6",
+    },
+    
+    {
+        question: "In the JavaScript, which one of the following is not considered as an error:",
+        incorrectAnswers: [
+            "Missing of Bracket",
+            "Syntax error",
+            "Missing of semicolons"
+        ],
+        correctAnswer: "Division by zero",
+    },
+    
+    {
+        question: "A set of unordered properties that, has a name and value is called______",
+        incorrectAnswers: [
+            "String",
+            "Array",
+            "Serialized Object"
+        ],
+        correctAnswer: "Object",
       },
   ];
   
