@@ -169,7 +169,7 @@ const data = [
     },
     
     {
-        question: "A set of unordered properties that, has a name and value is called______",
+        question: "A set of unordered properties that, has a name and value is called______.",
         incorrectAnswers: [
             "String",
             "Array",
